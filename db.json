@@ -1,0 +1,13 @@
+{
+  "ep":[
+      {
+         "MemberProfiled": "YES",
+         "agreementID": "",
+         "currentMonthlyPremium": "157.92",
+         "newMonthlyVehiclePremium": "86.98",
+         "newMonthlyPremium": "225.83",
+         "memberNumberForQAValidation": "fakeNum",
+         "totalDiscounts": "205.49"
+      }
+  ]
+}
